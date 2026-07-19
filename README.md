@@ -1,8 +1,8 @@
 # VSCode Dark Green Theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/zRnatoNeto.dark-green.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=zRnatoNeto.dark-green)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/zRnatoNeto.dark-green.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=zRnatoNeto.dark-green)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/zRnatoNeto.dark-green.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=zRnatoNeto.dark-green)
+[![Version]](https://marketplace.visualstudio.com/items?itemName=zRnatoNeto.dark-green)
+[![Installs]](https://marketplace.visualstudio.com/items?itemName=zRnatoNeto.dark-green)
+[![Ratings]](https://marketplace.visualstudio.com/items?itemName=zRnatoNeto.dark-green)
 
 ## Getting started
 

@@ -751,5 +751,9 @@
         "foreground": "#b267e6"
       }
     }
-  ]
+],
+"semanticHighlighting": true,
+"semanticTokenColors": {
+    "macro": "#569cd6",
+}
 }
